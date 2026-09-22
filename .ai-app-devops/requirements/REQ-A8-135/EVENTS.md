@@ -16,3 +16,4 @@ handoff with its immutable evidence reference.
 | 2026-09-23T00:36:00.000Z | worktree.created | C:/aiproject/.worktrees/anonymous-personal-to-do-v2/REQ-A8-135 | 1 | Isolated worktree checked out on req/REQ-A8-135 | git worktree list |
 | 2026-09-23T00:37:00.000Z | requirement.records.written | worktree REQ-A8-135 | 1 | spec.md, CHANGE-STATEMENT.md, KNOWLEDGE-CONTEXT.md, SOURCE-MANIFEST.md and intake lineage copied into the isolated worktree | spec.md sha256 07c26e15d12e60d993c581096fd2c553772526bcfd67e750c7c77f902628beca |
 | 2026-09-23T00:38:00.000Z | state.initialized | worktree REQ-A8-135 | 1 | STATE.md, EVENTS.md, OUTBOX.md, TECHNICAL-RECORD.md and application LOCK.md initialized | STATE.md state BUILDING_PREVIEW |
+| 2026-09-23T00:46:00.000Z | linear.mirror.verified | comment 6f78f765-b1b0-4ef1-b872-03d5ccf05648 | 1 | Delivery identity milestone comment written and read back | comment 6f78f765-b1b0-4ef1-b872-03d5ccf05648 |

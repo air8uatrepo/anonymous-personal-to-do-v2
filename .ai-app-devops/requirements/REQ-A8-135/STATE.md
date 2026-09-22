@@ -32,6 +32,7 @@ jev_last_confidence: 0.99
 jev_mode: shadow
 jev_min_confidence: 0.90
 open_gate_id: null
+linear_timeline_comment_id: 6f78f765-b1b0-4ef1-b872-03d5ccf05648
 next_action: dispatch business_direct_developer
 updated_at: 2026-09-23T00:00:00.000Z
 ---
@@ -73,3 +74,4 @@ mirror; it never advances, resumes, or authorizes local work.
 
 Enter `BUILDING_PREVIEW` and dispatch `business_direct_developer` for
 requirement REQ-A8-135.
+

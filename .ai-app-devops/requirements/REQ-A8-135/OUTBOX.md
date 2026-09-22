@@ -18,3 +18,5 @@ state.
 | bd-materialize-worktree-7fb54a91-b04b-4167-8d92-35bc96a8cfb1-r1 | C:/aiproject/.worktrees/anonymous-personal-to-do-v2/REQ-A8-135 | worktree_creation | 1 | verified | git worktree list -> req/REQ-A8-135 at 7391546 |
 | bd-materialize-spec-7fb54a91-b04b-4167-8d92-35bc96a8cfb1-r1 | worktree REQ-A8-135 | spec_freeze | 1 | verified | spec.md sha256 07c26e15d12e60d993c581096fd2c553772526bcfd67e750c7c77f902628beca |
 | bd-materialize-agents-7fb54a91-b04b-4167-8d92-35bc96a8cfb1-r1 | worktree REQ-A8-135 | agent_guide | 1 | verified | commit 7391546 AGENTS.md marker air8-business-direct:agents |
+| bd-identity-mirror-7fb54a91-b04b-4167-8d92-35bc96a8cfb1-r1 | Linear issue 7fb54a91-b04b-4167-8d92-35bc96a8cfb1 | rolling_milestone | 1 | verified | 6f78f765-b1b0-4ef1-b872-03d5ccf05648 |
+
