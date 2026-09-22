@@ -1,0 +1,10 @@
+# Business Direct local runtime artifacts
+.env
+.env.*
+app.db
+app.db-wal
+app.db-shm
+*.log
+logs/
+node_modules/
+.next/
